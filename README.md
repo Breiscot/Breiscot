@@ -16,4 +16,13 @@
   <hr>
 
   <p align='left'>This is my Git Profile, here I publish most of my projects, I make projects for <a href='https://hackclub.com/'>HackClub</a> an American no-profit organization, one of the best projects I made for HackClub is <strong>Clinton Road</strong>, a Horror game that you can find <a href='https://breiscot.itch.io/clinton-road'>here</a>.</p>
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://files.catbox.moe/9slvmz.gif">
+      </td>
+      <td>
+        <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=23513&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8">
+      </td>
+    </tr>
 </div>
